@@ -1,4 +1,4 @@
-# Nodejs Expressjs Mysql,Sequelize,Multer Ready-to-use API Project Structure
+# Nodejs Expressjs Mysql Sequelize Multer Ready-to-use API Project Structure
 
 A ready-to-use boilerplate for REST API Development with Node.js, Express,  multer,Mysql and sequelize.
 
