@@ -1,6 +1,5 @@
-# Nodejs Expressjs Mysql, Multer Ready-to-use API Project Structure ( Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server, Amazon Redshift and Snowflake’s Data Cloud can also be used in place of mysql)
-
-A ready-to-use boilerplate for REST API Development with Node.js, Express,  multer,Mysql and sequelize.
+# Nodejs Expressjs Mysql, Multer Ready-to-use API Project Structure
+A ready-to-use boilerplate for REST API Development with Node.js, Express,  multer,Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server, Amazon Redshift and Snowflake’s Data Cloud  database..
 
 ## Getting started
 
