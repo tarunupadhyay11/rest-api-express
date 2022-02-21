@@ -1,4 +1,4 @@
-# Nodejs Expressjs Mysql Sequelize Multer Ready-to-use API Project Structure
+# Nodejs Expressjs Mysql, Multer Ready-to-use API Project Structure ( Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server, Amazon Redshift and Snowflake’s Data Cloud can also be used in place of mysql)
 
 A ready-to-use boilerplate for REST API Development with Node.js, Express,  multer,Mysql and sequelize.
 
@@ -6,7 +6,7 @@ A ready-to-use boilerplate for REST API Development with Node.js, Express,  mult
 
 This is a basic API skeleton written in JavaScript ES2015. Very useful to building a RESTful web APIs for your front-end platforms like Android, iOS or JavaScript frameworks (Angular, Reactjs, etc).
 
-This project will run on **NodeJs** using **Mysql** as database. I had tried to maintain the code structure easy as any beginner can also adopt the flow and start building an API. Project is open for suggestions, Bug reports and pull requests.
+This project will run on **NodeJs** using **Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server, Amazon Redshift and Snowflake’s Data Cloud.** as database. I had tried to maintain the code structure easy as any beginner can also adopt the flow and start building an API. Project is open for suggestions, Bug reports and pull requests.
 
 
 ## Features
@@ -24,7 +24,6 @@ This project will run on **NodeJs** using **Mysql** as database. I had tried to 
 ## Software Requirements
 
 - Node.js
-- Mysql
 
 ## How to install
 
