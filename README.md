@@ -18,6 +18,7 @@ This project will run on **NodeJs** using **Postgres, MySQL, MariaDB, SQLite, Mi
 - Pre-defined response structures with proper status codes.
 - Included CORS.
 - Validations added.
+- Included API collection for Postman.
 - Light-weight project.
 
 ## Software Requirements
