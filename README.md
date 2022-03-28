@@ -24,6 +24,7 @@ This project will run on **NodeJs** using **Postgres, MySQL, MariaDB, SQLite, Mi
 ## Software Requirements
 
 - Node.js
+- Mysql
 
 ## How to install
 
