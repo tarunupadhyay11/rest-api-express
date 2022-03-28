@@ -30,8 +30,8 @@ CREATE TABLE `users` (
   `google_id` varchar(255) DEFAULT NULL,
   `facebook_id` varchar(255) DEFAULT NULL,
   `otp` varchar(200) DEFAULT NULL,
-  `created_at` datetime DEFAULT NULL,
-  `updated_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
+  `createdAt` datetime DEFAULT NULL,
+  `updatedAt` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   `deleted_at` datetime DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
